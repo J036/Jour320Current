@@ -1,0 +1,59 @@
+h1 {
+    /*style for blue box subtitle*/
+      font-style: italic;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      text-align: center;
+  }
+  
+  
+  .subtitle {
+    /*style for green box subtitle*/
+    background-color: rgb(147, 204, 147);
+    font-size:x-large;
+    font-weight:bold;
+    position: static;
+    top: 70px;
+    right: 500px;
+    height: 125px;
+    padding: 40px;
+    margin: 20px;
+    border: 2px;
+    border-style: dotted;
+    border-color: rgb(0, 53, 7);
+  }
+  
+  
+  .prevlab {
+    /*style for green box subtitle*/
+    background-color: rgb(173, 55, 144);
+    font-size:x-large;
+    font-weight:bold;
+    position: sticky;
+    text-align: center;
+    margin: 10px;
+    border: 2px;
+    border-style: dotted;
+    border-color: rgb(36, 0, 53);
+  }
+  
+  
+  /* unvisited link */
+  a:link {
+      color: blue;
+    }
+   
+    /* visited link */
+    a:visited {
+      color: purple;
+    }
+   
+    /* mouse over link */
+    a:hover {
+      color: greenyellow;
+    }
+   
+    /* selected link */
+    a:active {
+      color: green;
+    }
+  
