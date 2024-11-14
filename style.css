@@ -5,7 +5,6 @@ h1 {
       text-align: center;
   }
   
-  
   .subtitle {
     /*style for green box subtitle*/
     background-color: rgb(147, 204, 147);
@@ -109,7 +108,7 @@ h1 {
       background-color: lightgray;
       color: black;
       text-align: center;
-      border-radius: 6px;
+      border-radius: 5px;
       padding: 5px 0;
     
       position: relative;
